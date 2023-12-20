@@ -86,6 +86,6 @@ ul li {
 
     .section-divider {
         /* Optional: Hide section dividers for compactness */
-        display: none;
+        display: show;
     }
 }
